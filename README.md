@@ -1,4 +1,3 @@
 # Конвертер валют на Express.js
-
-Простое REST API для конвертации валют с использованием Express.js.
+![alt text](image.png)
 
